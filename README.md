@@ -112,6 +112,7 @@ when the user clicks on an e-mail link, a web page will appear with the followin
 Upon the submission of the correct answer the email address will appear:
    
 ![](readme_images/answer.JPG)
+
 You can either click on it and launch your default e-mail handler or copy and paste it. The 
 question and answer scheme is great for visually impaired people and even the most smart spambots 
 are not able to answer it.
