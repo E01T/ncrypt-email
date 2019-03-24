@@ -69,7 +69,6 @@ the ncrypt-email.zip file. When the upload has been complete press activate plug
 still have problems installing it check the detailed installation instructions, from the official 
 WordPress site: read the [standard installation procedure for WordPress plugins(https://codex.wordpress.org/Managing_Plugins#Installing_Plugins).
 4. Configuration:On the Settings menu click on Ncrypt Email. You will go to this page: 
-
 ![](readme_images/ncrypt email_settings_screen_new.JPG)
 This page is divided into two main sections the Ncrypt Email Configuration and the Ncrypt Email 
 Useful Info (see last section).
