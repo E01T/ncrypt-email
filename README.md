@@ -74,7 +74,7 @@ Useful Info (see last section).
 
     1. Ncrypt Email Configuration Section: The first option "Encrypt mailto: links" is pretty strait 
 forward; it will encrypt all e-mails that appear as hyperlinks on the web page e.g. [Contact me](mailto:contact_me@mail.com). So the Contact me hyperlink text will remain unchanged but behind the scenes will become something like this: 
-![](readme_images/ncrypt_email_address.jpg) 
+![](readme_images/ncrypt_email_address.JPG) 
 The e-mail address has been encrypted.
 
     2. The second option “Encrypt plaintext e-mails” will find all the plain text e-mails (like someone@somemail.com) on a web page: These e-mails can be between <p> tags (paragraphs) <span> 
