@@ -69,6 +69,7 @@ the ncrypt-email.zip file. When the upload has been complete press activate plug
 still have problems installing it check the detailed installation instructions, from the official 
 WordPress site: read the [standard installation procedure for WordPress plugins(https://codex.wordpress.org/Managing_Plugins#Installing_Plugins).
 4. Configuration:On the Settings menu click on Ncrypt Email. You will go to this page: 
+
 ![](readme_images/ncrypt email_settings_screen_new.JPG)
 This page is divided into two main sections the Ncrypt Email Configuration and the Ncrypt Email 
 Useful Info (see last section).
@@ -126,7 +127,7 @@ The e-mail address has not been revealed yet. If the user presses ok to close to
 ![](readme_images/enable_coocies.JPG) A page with the same message.
 The second case is when if both JavaScript and cookies are disabled. In this case, when the user 
 clicks the link, the above mentioned web page will appear.
-    8. The final option is about hyperlinked emails that have some text like. By default if you hover 
+    8. The final option is about hyperlinked emails that have some text like  [Contact me](mailto:contact@contactmail.all). By default if you hover 
 over these emails the address will appear e.g. (conctact@contactmail.all). If you don’t want that, 
 just uncheck the default option.
 5. Ncrypt Email Useful info:
