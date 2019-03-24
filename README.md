@@ -69,6 +69,7 @@ the ncrypt-email.zip file. When the upload has been complete press activate plug
 still have problems installing it check the detailed installation instructions, from the official 
 WordPress site: read the [standard installation procedure for WordPress plugins](https://codex.wordpress.org/Managing_Plugins#Installing_Plugins).
 4. Configuration: On the Settings menu click on Ncrypt Email. You will go to this page:
+
 ![](readme_images/ncrypt email_settings_screen_new.JPG)
 This page is divided into two main sections the Ncrypt Email Configuration and the Ncrypt Email 
 Useful Info (see last section).
@@ -105,9 +106,12 @@ if you are a web designer – developer. If not either ask one or leave this opt
 default).
     5. The fifth option says “Question for non-JavaScript-capable browsers.” If a browser does not 
 support JavaScript (either because is JS is disabled or is a screen reader or an rss reader etc), 
-when the user clicks on an e-mail link, a web page will appear with the following question: 
+when the user clicks on an e-mail link, a web page will appear with the following question:
+   
 ![](readme_images/question.JPG)
-Upon the submission of the correct answer the email address will appear: 
+
+Upon the submission of the correct answer the email address will appear:
+   
 ![](readme_images/answer.JPG)
 You can either click on it and launch your default e-mail handler or copy and paste it. The 
 question and answer scheme is great for visually impaired people and even the most smart spambots 
@@ -136,6 +140,7 @@ over these emails the address will appear e.g. (conctact@contactmail.all). If yo
 just uncheck the default option.
 5. Ncrypt Email Useful info:
 ![](readme_images/ncrypt_email_useful_info.JPG)
+   
 I think this section is very descriptive on its own. It deals with two things: 1st the WordPress 
 areas this plugin covers, which are: the_content, the_excerpt, widget_text, comment_text, 
 comment_excerpt, comment_post. 2nd how to use Ncrypt shortcodes. I have to mention here that you 
