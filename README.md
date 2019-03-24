@@ -68,13 +68,14 @@ your plugins folder by going to the admin menu: go to 'Plugins -> Add New -> Upl
 the ncrypt-email.zip file. When the upload has been complete press activate plugin. NOTE: if you 
 still have problems installing it check the detailed installation instructions, from the official 
 WordPress site: read the [standard installation procedure for WordPress plugins(https://codex.wordpress.org/Managing_Plugins#Installing_Plugins).
-4. Configuration:On the Settings menu click on Ncrypt Email. You will go to this page: ![](readme_images/ncrypt email_settings_screen_new.JPG)
+4. Configuration:On the Settings menu click on Ncrypt Email. You will go to this page: 
+![](readme_images/ncrypt email_settings_screen_new.JPG)
 This page is divided into two main sections the Ncrypt Email Configuration and the Ncrypt Email 
 Useful Info (see last section).
 
     1. Ncrypt Email Configuration Section: The first option "Encrypt mailto: links" is pretty strait 
 forward; it will encrypt all e-mails that appear as hyperlinks on the web page e.g. [Contact me](mailto:contact_me@mail.com). So the Contact me hyperlink text will remain unchanged but behind the scenes will become something like this: 
-![](readme_images/ncrypt_email_address.JPG) 
+![](readme_images/ncrypt_email_address.JPG)
 The e-mail address has been encrypted.
 
     2. The second option “Encrypt plaintext e-mails” will find all the plain text e-mails (like someone@somemail.com) on a web page: These e-mails can be between <p> tags (paragraphs) <span> 
