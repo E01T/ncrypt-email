@@ -69,10 +69,9 @@ the ncrypt-email.zip file. When the upload has been complete press activate plug
 still have problems installing it check the detailed installation instructions, from the official 
 WordPress site: read the [standard installation procedure for WordPress plugins](https://codex.wordpress.org/Managing_Plugins#Installing_Plugins).
 4. Configuration: On the Settings menu click on Ncrypt Email. You will go to this page:
-![](readme_images/ncrypt email_settings_screen_new.JPG)
 This page is divided into two main sections the Ncrypt Email Configuration and the Ncrypt Email 
 Useful Info (see last section).
-
+![](readme_images/ncrypt email_settings_screen_new.JPG)
 
     1. Ncrypt Email Configuration Section: The first option "Encrypt mailto: links" is pretty strait 
 forward; it will encrypt all e-mails that appear as hyperlinks on the web page e.g. [Contact me](mailto:contact_me@mail.com). So the Contact me hyperlink text will remain unchanged but behind the scenes will become something like this: 
@@ -131,6 +130,7 @@ above mentioned message:
 ![](readme_images/coocie_alert.JPG)
 When I hovered over the Contact me link this alert message appeared. Of course the code is still in “raw” form:
 ![](readme_images/encrypted_email_address_contact_me.JPG)
+
 The e-mail address has not been revealed yet. If the user presses ok to close to alert box and clicks on the link it will go to this web page:
 ![](readme_images/enable_coocies.jpg) A page with the same message.
 The second case is when if both JavaScript and cookies are disabled. In this case, when the user 
