@@ -71,7 +71,7 @@ WordPress site: read the [standard installation procedure for WordPress plugins]
 4. Configuration: On the Settings menu click on Ncrypt Email. You will go to this page:
 This page is divided into two main sections the Ncrypt Email Configuration and the Ncrypt Email 
 Useful Info (see last section).
-![](readme_images/ncrypt email_settings_screen_new.JPG)
+![](readme_images/ncrypt_email_settings_screen_new.JPG)
 
     1. Ncrypt Email Configuration Section: The first option "Encrypt mailto: links" is pretty strait 
 forward; it will encrypt all e-mails that appear as hyperlinks on the web page e.g. [Contact me](mailto:contact_me@mail.com). So the Contact me hyperlink text will remain unchanged but behind the scenes will become something like this: 
