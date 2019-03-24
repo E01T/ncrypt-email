@@ -133,7 +133,9 @@ When I hovered over the Contact me link this alert message appeared. Of course t
 ![](readme_images/encrypted_email_address_contact_me.JPG)
 
 The e-mail address has not been revealed yet. If the user presses ok to close to alert box and clicks on the link it will go to this web page:
+
 ![](readme_images/enable_cookies.JPG)
+
 A page with the same message.
 The second case is when if both JavaScript and cookies are disabled. In this case, when the user 
 clicks the link, the above mentioned web page will appear.
