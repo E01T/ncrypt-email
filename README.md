@@ -141,7 +141,7 @@ The e-mail address has not been revealed yet. If the user presses ok to close to
 A page with the same message.
 The second case is when if both JavaScript and cookies are disabled. In this case, when the user 
 clicks the link, the above mentioned web page will appear.
-    8. The final option is about hyperlinked emails that have some text like [Contact US](mailto:contactus@contactmail.all). By default if you hover 
+    8. The final option is about hyperlinked emails that have some text like [Contact US](mailto:conctact@contactmail.all). By default if you hover 
 over these emails the address will appear e.g. (conctact@contactmail.all). If you don’t want that, 
 just uncheck the default option.
 5. Ncrypt Email Useful info:
