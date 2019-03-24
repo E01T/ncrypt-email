@@ -128,12 +128,13 @@ page.” The default message is: “You need to enable cookies to view this emai
 refresh the page!” Again you can set you own message. There are two cases, the first is when 
 cookies are disabled but JavaScript is enabled. The user will get a JavaScript alert box with the 
 above mentioned message:
-![](readme_images/coocie_alert.JPG)
+![](readme_images/cookie_alert.JPG)
 When I hovered over the Contact me link this alert message appeared. Of course the code is still in “raw” form:
 ![](readme_images/encrypted_email_address_contact_me.JPG)
 
 The e-mail address has not been revealed yet. If the user presses ok to close to alert box and clicks on the link it will go to this web page:
-![](readme_images/enable_coocies.jpg) A page with the same message.
+![](readme_images/enable_cookies.JPG)
+A page with the same message.
 The second case is when if both JavaScript and cookies are disabled. In this case, when the user 
 clicks the link, the above mentioned web page will appear.
     8. The final option is about hyperlinked emails that have some text like. By default if you hover 
