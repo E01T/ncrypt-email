@@ -1,0 +1,239 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wp-email-address-encryption\n"
+"POT-Creation-Date: 2014-10-03 14:12+0200\n"
+"PO-Revision-Date: 2014-10-03 14:13+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.9\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../ncrypt-email-options-page_oop.php:15
+#: ../ncrypt-email-options-page_oop.php:16
+msgid "Ncrypt Email"
+msgstr ""
+
+#: ../ncrypt-email-options-page_oop.php:26
+msgid "The ultimate e-mail encryption tool will put a stop to spam."
+msgstr ""
+
+#: ../ncrypt-email-options-page_oop.php:41
+msgid "Ncrypt Email Useful Info"
+msgstr ""
+
+#: ../ncrypt-email-options-page_oop.php:42
+msgid "Which areas the plug-in covers?"
+msgstr ""
+
+#: ../ncrypt-email-options-page_oop.php:44
+msgid " is the contents of posts and pages."
+msgstr ""
+
+#: ../ncrypt-email-options-page_oop.php:45
+msgid " is the excerpt of a post with the \"[...]\" text at the end."
+msgstr ""
+
+#: ../ncrypt-email-options-page_oop.php:46
+msgid ""
+" applies to the text of the WordPress Text widgets. And the rest refer to "
+"the comments."
+msgstr ""
+
+#: ../ncrypt-email-options-page_oop.php:47
+msgid "Shortcodes how to:"
+msgstr ""
+
+#: ../ncrypt-email-options-page_oop.php:48
+msgid "Ncrypt Email shortcode has this form:"
+msgstr ""
+
+#: ../ncrypt-email-options-page_oop.php:50
+msgid ""
+"NOTE: The curly brackets below are not required for the shortcode, I use "
+"them for clarity purposes."
+msgstr ""
+
+#: ../ncrypt-email-options-page_oop.php:51
+msgid "It consists of the following parts: the name of the shortcode "
+msgstr ""
+
+#: ../ncrypt-email-options-page_oop.php:51
+msgid ", the "
+msgstr ""
+
+#: ../ncrypt-email-options-page_oop.php:52
+msgid "attribute, which is required, an optional email "
+msgstr ""
+
+#: ../ncrypt-email-options-page_oop.php:52
+msgid " attribute, an optional "
+msgstr ""
+
+#: ../ncrypt-email-options-page_oop.php:53
+msgid ""
+"attribute which is the text(tooltip) that appears when you hover over the "
+"link, and an optional "
+msgstr ""
+
+#: ../ncrypt-email-options-page_oop.php:54
+msgid ""
+" attribute in case you want to style it. The text that appears between the "
+"opening and closing square brackets, the content, "
+msgstr ""
+
+#: ../ncrypt-email-options-page_oop.php:54
+msgid "Contact Us"
+msgstr ""
+
+#: ../ncrypt-email-options-page_oop.php:55
+msgid ""
+" in this case is required too. It is highly recommended to provide text like "
+"contact us or e-mail us and not the actual e-mail address. If you provide "
+"the email address e.g. myemail@example.com and if you have provided the "
+"\"Text to appear in place of plaintext e-mails\" in the text field aside, it "
+"will use this text, and  when the user hovers over the text, the actual e-"
+"mail will appear."
+msgstr ""
+
+#: ../ncrypt-email-options-page_oop.php:56
+msgid "So to recap in order to use the shortcode you must provide the name  "
+msgstr ""
+
+#: ../ncrypt-email-options-page_oop.php:56
+msgid " and at least two required fields the "
+msgstr ""
+
+#: ../ncrypt-email-options-page_oop.php:57
+msgid " attribute and the "
+msgstr ""
+
+#: ../ncrypt-email-options-page_oop.php:58
+msgid "content(text between opening and closing square brackets)."
+msgstr ""
+
+#: ../ncrypt-email-options-page_oop.php:58
+msgid " The shortest form can be e.g."
+msgstr ""
+
+#: ../ncrypt-email-options-page_oop.php:60
+msgid ""
+"With attributes Remember to use the equal sign(=) and enclose them in double "
+"quotes (\"\") e.g. email=\"somemail@some.com\""
+msgstr ""
+
+#: ../ncrypt-email-options-page_oop.php:61
+msgid ""
+"If you want to use the shortcode directly into php you must edit the php "
+"file and use this code:"
+msgstr ""
+
+#: ../ncrypt-email-options-page_oop.php:64
+msgid "You must use the "
+msgstr ""
+
+#: ../ncrypt-email-options-page_oop.php:64
+msgid " function and  "
+msgstr ""
+
+#: ../ncrypt-email-options-page_oop.php:64
+msgid " back the result."
+msgstr ""
+
+#: ../ncrypt-email-options-page_oop.php:65
+msgid ""
+"This is useful for areas that the plugin cannot reach e.g. if you theme does "
+"not have a widget area in the footer\n"
+"    and you want to put an email there, then the above function should be "
+"useful."
+msgstr ""
+
+#: ../ncrypt-email-options-page_oop.php:81
+msgid "Ncrypt Email Configuration."
+msgstr ""
+
+#: ../ncrypt-email-options-page_oop.php:90
+msgid "Encrypt mailto: emails"
+msgstr ""
+
+#: ../ncrypt-email-options-page_oop.php:99
+msgid "Encrypt plaintext emails"
+msgstr ""
+
+#: ../ncrypt-email-options-page_oop.php:108
+msgid "Text to appear in place of plaintext e-mails?"
+msgstr ""
+
+#: ../ncrypt-email-options-page_oop.php:117
+msgid "Class attribute (name) for the generated plaintext e-mail links."
+msgstr ""
+
+#: ../ncrypt-email-options-page_oop.php:126
+msgid "Question for non-JavaScript-capable browsers."
+msgstr ""
+
+#: ../ncrypt-email-options-page_oop.php:135
+msgid "Answer:"
+msgstr ""
+
+#: ../ncrypt-email-options-page_oop.php:144
+msgid "Cookies prompt:"
+msgstr ""
+
+#: ../ncrypt-email-options-page_oop.php:153
+msgid "Reveal Emails on hover"
+msgstr ""
+
+#: ../ncrypt-email-options-page_oop.php:166
+msgid "Encrypting options"
+msgstr ""
+
+#: ../ncrypt-email-options-page_oop.php:177
+msgid "Encrypt emails that appear as hyperlinks"
+msgstr ""
+
+#: ../ncrypt-email-options-page_oop.php:189
+msgid "Encrypt emails that appear as plain text"
+msgstr ""
+
+#: ../ncrypt-email-options-page_oop.php:200
+msgid ""
+"It is highly recommended to provide it. If you don't, proper encryption "
+"cannot occur. The e-mail is still susceptible to OCR (Optical Character "
+"Recognition) attacks. When the user hovers over the text, the actual e-mail "
+"will appear. The same text will appear in a mailto e-mail, if it has text in "
+"the form of myemail@example.com. Again when the user hovers over the text, "
+"the actual e-mail will appear. "
+msgstr ""
+
+#: ../ncrypt-email-options-page_oop.php:213
+msgid "In case you want to style them via css."
+msgstr ""
+
+#: ../ncrypt-email-options-page_oop.php:227
+msgid ""
+"A question for usage in case that browser does not support javascript or is "
+"disabled."
+msgstr ""
+
+#: ../ncrypt-email-options-page_oop.php:241
+msgid "The answer for the above question."
+msgstr ""
+
+#: ../ncrypt-email-options-page_oop.php:255
+msgid ""
+"For extra protection the encrypter sets a cookie. Most if not all of spam "
+"bots do not have the capability to support cookies. So in case that cookies "
+"are disabled by the user, a message will appear."
+msgstr ""
+
+#: ../ncrypt-email-options-page_oop.php:270
+msgid ""
+"When the user hovers over an e-mail, the actual e-mail address will appear "
+"in place of text."
+msgstr ""
