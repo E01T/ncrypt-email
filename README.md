@@ -67,8 +67,8 @@ Upon downloading the package, you will have an ncrypt-email folder inside of it.
 your plugins folder by going to the admin menu: go to 'Plugins -> Add New -> Upload’ and choose 
 the ncrypt-email.zip file. When the upload has been complete press activate plugin. NOTE: if you 
 still have problems installing it check the detailed installation instructions, from the official 
-WordPress site: read the [standard installation procedure for WordPress plugins](https://codex.wordpress.org/Managing_Plugins#Installing_Plugins).
-4. Configuration:On the Settings menu click on Ncrypt Email. You will go to this page: ![](readme_images/ncrypt email_settings_screen_new.jpg)
+WordPress site: read the [standard installation procedure for WordPress plugins(https://codex.wordpress.org/Managing_Plugins#Installing_Plugins).
+4. Configuration:On the Settings menu click on Ncrypt Email. You will go to this page: ![](readme_images/ncrypt email_settings_screen_new.JPG)
 This page is divided into two main sections the Ncrypt Email Configuration and the Ncrypt Email 
 Useful Info (see last section).
 
@@ -104,7 +104,7 @@ if you are a web designer – developer. If not either ask one or leave this opt
 default).
     5. The fifth option says “Question for non-JavaScript-capable browsers.” If a browser does not 
 support JavaScript (either because is JS is disabled or is a screen reader or an rss reader etc), 
-when the user clicks on an e-mail link, a web page will appear with the following question: ![](readme_images/question.jpg)Upon the submission of the correct answer the email address will appear: ![](readme_images/answer.jpg).You can either click on it and launch your default e-mail handler or copy and paste it. The 
+when the user clicks on an e-mail link, a web page will appear with the following question: ![](readme_images/question.JPG)Upon the submission of the correct answer the email address will appear: ![](readme_images/answer.jpg).You can either click on it and launch your default e-mail handler or copy and paste it. The 
 question and answer scheme is great for visually impaired people and even the most smart spambots 
 are not able to answer it.
     6. The sixth option gives you the ability to set the answer of the above question.
@@ -119,10 +119,10 @@ page.” The default message is: “You need to enable cookies to view this emai
 refresh the page!” Again you can set you own message. There are two cases, the first is when 
 cookies are disabled but JavaScript is enabled. The user will get a JavaScript alert box with the 
 above mentioned message:
-![](readme_images/coocie_alert.jpg)When I hovered over the Contact me link this alert message appeared. Of course the code is still in “raw” form:
-![](readme_images/encrypted_email_address_contact_me.jpg)
+![](readme_images/coocie_alert.JPG)When I hovered over the Contact me link this alert message appeared. Of course the code is still in “raw” form:
+![](readme_images/encrypted_email_address_contact_me.JPG)
 The e-mail address has not been revealed yet. If the user presses ok to close to alert box and clicks on the link it will go to this web page:
-![](readme_images/enable_coocies.jpg) A page with the same message.
+![](readme_images/enable_coocies.JPG) A page with the same message.
 The second case is when if both JavaScript and cookies are disabled. In this case, when the user 
 clicks the link, the above mentioned web page will appear.
     8. The final option is about hyperlinked emails that have some text like. By default if you hover 
