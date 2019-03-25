@@ -84,10 +84,10 @@ The e-mail address has been encrypted.
     
     3. Now what happened to the `someone@somemail.com` texted e-mail? The answer is option number three: “Text 
 to appear in place of plaintext e-mails”? The text `someone@somemail.com` that appears on the 
-screen, is it protected? The answer is NO and that is why you are asked to provide this text… “It 
+screen, is it protected? The answer is NO and that is why you are asked to provide this text. “It 
 is highly recommended to provide it. If you don’t, proper encryption cannot occur. The e-mail is 
 still susceptible to OCR (Optical Character Recognition) attacks. When the user hovers over the 
-text, the actual e-mail will appear.” It is asking you to provide text (the default is “e-mail 
+text, the actual e-mail will appear.” Provide the text (the default is “e-mail 
 me”) which will replace the e-mail address text with this. But when the use hovers over the e-mail 
 link the actual e-mail will be revealed. So in our previous example the `someone@somemail.com` 
 text, will become [email-me](mailto:someone@somemail.com). And when the user hovers over the link it will turn into 
@@ -146,6 +146,8 @@ page and index.php.
 7. JavaScript file: There is one JavaScript file: ncrypt_js_min.js and it is located in the 
 directory called javascript.
 8. Language Directory: There is a language directory with the English US translation.
+## Demo Page
+[Ncrypt email address](http://ncrypt-email-address.onlinewebshop.net/)
 ## Versioning
 2.3 
 ## Authors
