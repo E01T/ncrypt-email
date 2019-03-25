@@ -32,7 +32,7 @@ support JavaScript (visually impaired people).
 
 be revealed. According to [projecthoneypot website]
 
-(http://www.projecthoneypot.org/how_to_avoid_spambots_4.php) “robots typically do not handle 
+(http://www.projecthoneypot.org/how_to_avoid_spambots_4.php){:target="_blank"} “robots typically do not handle 
 
 cookies. While it would be possible for spambots to deal with cookies as they traverse the web, it 
 
@@ -69,7 +69,7 @@ IE10 - Win7, IE11 - Win7.
 your plugins folder by going to the admin menu: go to 'Plugins -> Add New -> Upload’ and choose 
 the ncrypt-email.zip file. When the upload has been complete press activate plugin. NOTE: if you 
 still have problems installing it check the detailed installation instructions, from the official 
-WordPress site: read the [standard installation procedure for WordPress plugins](https://codex.wordpress.org/Managing_Plugins#Installing_Plugins).
+WordPress site: read the [standard installation procedure for WordPress plugins](https://codex.wordpress.org/Managing_Plugins#Installing_Plugins){:target="_blank"}.
 4. Configuration: On the **Settings** menu click on Ncrypt Email. You will go to this page:
 ![](readme_images/ncrypt%20email_settings_screen_new.JPG)
 This page is divided into two main sections the Ncrypt Email Configuration and the Ncrypt Email 
@@ -147,10 +147,10 @@ page and index.php.
 directory called javascript.
 8. Language Directory: There is a language directory with the English US translation.
 ## Demo Page
-[Ncrypt email address](http://ncrypt-email-address.onlinewebshop.net/)
+[Ncrypt email address](http://ncrypt-email-address.onlinewebshop.net/){:target="_blank"}
 ## Versioning
 2.3 
 ## Authors
-* **Efthyvoulos Tsouderos** - *Initial work* - [e01t](https://github.com/E01T)
+* **Efthyvoulos Tsouderos** - *Initial work* - [e01t](https://github.com/E01T){:target="_blank"}
 ## License
-This project is licensed under the [GNU General Public License](https://www.gnu.org/licenses/license-list.html#GPLCompatibleLicenses) v2, or any later version
+This project is licensed under the [GNU General Public License](https://www.gnu.org/licenses/license-list.html#GPLCompatibleLicenses){:target="_blank"} v2, or any later version
