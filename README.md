@@ -63,7 +63,8 @@ template tag in the appropriate place. Usually all themes have.
     * Oracle VM VirtualBox Manager IE6 – WinXP, IE7 – Vista, IE8 – WinXP, IE8 - Win7, IE9 - Win7, 
 IE10 - Win7, IE11 - Win7.
 
-3. Installation
+3. Installation:
+
 Upon downloading the package, you will have an ncrypt-email folder inside of it. Upload this to 
 your plugins folder by going to the admin menu: go to 'Plugins -> Add New -> Upload’ and choose 
 the ncrypt-email.zip file. When the upload has been complete press activate plugin. NOTE: if you 
