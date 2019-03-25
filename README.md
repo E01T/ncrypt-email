@@ -84,7 +84,7 @@ The e-mail address has been encrypted.
     
     3. Now what happened to the `someone@somemail.com` texted e-mail? The answer is option number three: “Text 
 to appear in place of plaintext e-mails”? The text `someone@somemail.com` that appears on the 
-screen, is it protected? The answer is NO and that is why it is ask you to provide this text… “It 
+screen, is it protected? The answer is NO and that is why you are asked to provide this text… “It 
 is highly recommended to provide it. If you don’t, proper encryption cannot occur. The e-mail is 
 still susceptible to OCR (Optical Character Recognition) attacks. When the user hovers over the 
 text, the actual e-mail will appear.” It is asking you to provide text (the default is “e-mail 
