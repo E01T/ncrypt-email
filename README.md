@@ -141,4 +141,5 @@ directory called javascript.
 ## Authors
 * **Efthyvoulos Tsouderos** - *Initial work* - [e01t](https://github.com/E01T)
 ## License
-This project is licensed under the [GNU General Public License](https://www.gnu.org/licenses/license-list.html#GPLCompatibleLicenses) v2, or any later version
+This project is licensed under the [GNU General Public License](https://www.gnu.org/licenses/license-list.html#GPLCompatibleLicenses) 
+<a href="https://www.gnu.org/licenses/license-list.html#GPLCompatibleLicenses" target="_blank">GNU General Public License</a>v2, or any later version
