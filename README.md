@@ -137,7 +137,7 @@ directory called javascript.
 ## Demo Page
 [Ncrypt email address](http://ncrypt-email-address.onlinewebshop.net/)
 ## Download Zip
-[Download Ncrypt](ncrypt-email.zip)
+[Download Ncrypt](ncrypt-email.zip?raw=true)
 ## Versioning
 2.3 
 ## Authors
