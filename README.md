@@ -90,7 +90,7 @@ still susceptible to OCR (Optical Character Recognition) attacks. When the user 
 text, the actual e-mail will appear.” It is asking you to provide text (the default is “e-mail 
 me”) which will replace the e-mail address text with this. But when the use hovers over the e-mail 
 link the actual e-mail will be revealed. So in our previous example the `someone@somemail.com` 
-text, will become [email me](mailto:someone@somemail.com). And when the user hovers over the link it will turn into 
+text, will become [email-me](mailto:someone@somemail.com). And when the user hovers over the link it will turn into 
 someone@somemail.com which is both clickable and/or you can copy and paste it if you want. 
 And it continues: “The same text will appear in a mailto e-mail, if it has text in the form of 
 e.g. `myemail@example.com`. Again when the user hovers over the text, the actual e-mail will 
