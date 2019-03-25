@@ -80,7 +80,7 @@ forward; it will encrypt all e-mails that appear as hyperlinks on the web page e
 ![](readme_images/encrypted_email_address.JPG).    
 The e-mail address has been encrypted.
 
-    2. The second option “Encrypt plaintext e-mails” will find all the plain text e-mails (like someone@somemail.com) on a web page: These e-mails can be between <p> tags (paragraphs) <span> tags, plain text (no tags) and generally any non-anchor <a > tags. After it finds the e-mails it will turn them into hyper-linked e-mails. They become [email-me](mailto:someone@somemail.mal).
+    2. The second option “Encrypt plaintext e-mails” will find all the plain text e-mails (like someone@somemail.com) on a web page: These e-mails can be between `<p>` tags (paragraphs) `<span>` tags, plain text (no tags) and generally any non-anchor <a > tags. After it finds the e-mails it will turn them into hyper-linked e-mails. They become [email-me](mailto:someone@somemail.mal).
     
     3. Now what happened to the someone@somemail.com text? The answer is option number three: “Text 
 to appear in place of plaintext e-mails”? The text (someone@somemail.com) that appears on the 
@@ -145,6 +145,7 @@ clicks the link, the above mentioned web page will appear.
     8. The final option is about hyperlinked emails that have some text like [Contact US](mailto:conctact@contactmail.all). By default if you hover 
 over these emails the address will appear e.g. (conctact@contactmail.all). If you don’t want that, 
 just uncheck the default option.
+
 5. Ncrypt Email Useful info:
 ![](readme_images/ncrypt_email_useful_info.JPG)
    
