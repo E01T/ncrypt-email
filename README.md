@@ -17,29 +17,17 @@ dependencies). It is lightning fast and only 4 kb small.
 ## Major Functionality
 
 * Encrypt and decrypt linked (mailto) e-mails and/or plaintext e-mails. You have the ability to 
-
 activate and deactivate these choices. It has also shortcode functionality in case that you want 
-
 to do it manually.
 * Graceful degradation: Disabled JavaScript? No problem - if you click the e-mail link you will go 
-
 to a page to fill in a question form. If you answer the question right the email will appear.  You 
-
 have the ability to set your own question and answer.  This is great for browsers that do not 
-
 support JavaScript (visually impaired people).
 * For extra security the encrypter uses cookies - If cookies are disabled the e-mail(s) will not 
-
-be revealed. According to [projecthoneypot website]
-
-(http://www.projecthoneypot.org/how_to_avoid_spambots_4.php){:target="_blank"} “robots typically do not handle 
-
-cookies. While it would be possible for spambots to deal with cookies as they traverse the web, it 
-
-would add substantially to their overhead and, in turn, increase the costs to spammers stealing 
-
+be revealed. According to [projecthoneypot website](http://www.projecthoneypot.org/how_to_avoid_spambots_4.php) 
+“robots typically do not handle cookies. While it would be possible for spambots to deal with cookies as they 
+traverse the web, it would add substantially to their overhead and, in turn, increase the costs to spammers stealing 
 addresses. Again, we suggest that if a visitor to your site does not accept cookies you consider 
-
 hiding the addresses displayed or restricting access to your contact page.”
 
 ### Manual -  How To
@@ -69,7 +57,7 @@ IE10 - Win7, IE11 - Win7.
 your plugins folder by going to the admin menu: go to 'Plugins -> Add New -> Upload’ and choose 
 the ncrypt-email.zip file. When the upload has been complete press activate plugin. NOTE: if you 
 still have problems installing it check the detailed installation instructions, from the official 
-WordPress site: read the [standard installation procedure for WordPress plugins](https://codex.wordpress.org/Managing_Plugins#Installing_Plugins){:target="_blank"}.
+WordPress site: read the [standard installation procedure for WordPress plugins](https://codex.wordpress.org/Managing_Plugins#Installing_Plugins).
 4. Configuration: On the **Settings** menu click on Ncrypt Email. You will go to this page:
 ![](readme_images/ncrypt%20email_settings_screen_new.JPG)
 This page is divided into two main sections the Ncrypt Email Configuration and the Ncrypt Email 
@@ -147,10 +135,10 @@ page and index.php.
 directory called javascript.
 8. Language Directory: There is a language directory with the English US translation.
 ## Demo Page
-[Ncrypt email address](http://ncrypt-email-address.onlinewebshop.net/){:target="_blank"}
+[Ncrypt email address](http://ncrypt-email-address.onlinewebshop.net/)
 ## Versioning
 2.3 
 ## Authors
-* **Efthyvoulos Tsouderos** - *Initial work* - [e01t](https://github.com/E01T){:target="_blank"}
+* **Efthyvoulos Tsouderos** - *Initial work* - [e01t](https://github.com/E01T)
 ## License
-This project is licensed under the [GNU General Public License](https://www.gnu.org/licenses/license-list.html#GPLCompatibleLicenses){:target="_blank"} v2, or any later version
+This project is licensed under the [GNU General Public License](https://www.gnu.org/licenses/license-list.html#GPLCompatibleLicenses) v2, or any later version
