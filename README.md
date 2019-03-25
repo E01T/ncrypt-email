@@ -136,6 +136,8 @@ directory called javascript.
 8. Language Directory: There is a language directory with the English US translation.
 ## Demo Page
 [Ncrypt email address](http://ncrypt-email-address.onlinewebshop.net/)
+## Download Zip
+[Download Ncrypt](ncrypt-email.zip)
 ## Versioning
 2.3 
 ## Authors
