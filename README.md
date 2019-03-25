@@ -131,7 +131,7 @@ to put an e-mail address there. Note that it might require editing a php file li
 that I mention above.
 6. PHP Files: There are four php files ncrypt-email.php, dcrypt-email.php, ncrypt-email-options-
 page and index.php.
-7. JavaScript file: Three JavaScript files: ncrypt_js_min.js which is used by the plugin, 
+7. JavaScript files: Three JavaScript files: ncrypt_js_min.js which is used by the plugin, 
 nrypt_js_dev the developer(unminified file) and a PointerEvents polyfill called pointerevents.js. 
 All files are located in the directory called javascript.
 8. Language Directory: There is a language directory with the English US translation.
