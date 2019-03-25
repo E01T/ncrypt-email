@@ -6,7 +6,7 @@ server. JavaScript is used (an AJAX Post Request) to dynamically contact the ser
 
 mail decryption happens and send back the results. Regardless of how many e-mails are on a webpage 
 
-only ONE AJAX request takes place. It utilizes the load event which means that only when the page 
+only **ONE** AJAX request takes place. It utilizes the **load event** which means that only when the page 
 
 is fully loaded the request – response happens (it will not slow down your page rendering). The 
 
