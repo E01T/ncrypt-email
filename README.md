@@ -82,18 +82,18 @@ The e-mail address has been encrypted.
 
     2. The second option “Encrypt plaintext e-mails” will find all the plain text e-mails (like someone@somemail.com) on a web page: These e-mails can be between `<p>` tags (paragraphs) `<span>` tags, plain text (no tags) and generally any non-anchor <a > tags. After it finds the e-mails it will turn them into hyper-linked e-mails. They become [email-me](mailto:someone@somemail.mal).
     
-    3. Now what happened to the someone@somemail.com text? The answer is option number three: “Text 
-to appear in place of plaintext e-mails”? The text (someone@somemail.com) that appears on the 
+    3. Now what happened to the `someone@somemail.com` texted e-mail? The answer is option number three: “Text 
+to appear in place of plaintext e-mails”? The text `someone@somemail.com` that appears on the 
 screen, is it protected? The answer is NO and that is why it is ask you to provide this text… “It 
 is highly recommended to provide it. If you don’t, proper encryption cannot occur. The e-mail is 
 still susceptible to OCR (Optical Character Recognition) attacks. When the user hovers over the 
 text, the actual e-mail will appear.” It is asking you to provide text (the default is “e-mail 
 me”) which will replace the e-mail address text with this. But when the use hovers over the e-mail 
-link the actual e-mail will be revealed. So in our previous example the (someone@somemail.com) 
-text, will become someone@somemail.com. And when the user hovers over the link it will turn into 
+link the actual e-mail will be revealed. So in our previous example the `someone@somemail.com` 
+text, will become [email me](mailto:someone@somemail.com). And when the user hovers over the link it will turn into 
 someone@somemail.com which is both clickable and/or you can copy and paste it if you want. 
 And it continues: “The same text will appear in a mailto e-mail, if it has text in the form of 
-e.g. myemail@example.com . Again when the user hovers over the text, the actual e-mail will 
+e.g. `myemail@example.com`. Again when the user hovers over the text, the actual e-mail will 
 appear”. So the purpose of the third option is to hide/camouflage the e-mails that appear on the 
 screen, not only the plaintext but also the linked e-mails. Two things to note here, it is not 
 obligatory to provide the text but as I mentioned above proper encryption cannot occur. And 
