@@ -134,7 +134,7 @@ clicks the link, the above mentioned web page will appear.
     8. The final option is about hyperlinked emails, (it is related with the first option), that have some text like [Contact US](mailto:conctact@contactmail.all). By default if you hover over these emails the address will appear e.g. (conctact@contactmail.all). If you don’t want that, just uncheck the default option.
 
 5. Ncrypt Email Useful info:
-![](readme_images/ncrypt_email_useful_info.JPG)
+![](readme_images/ncrypt_email_useful_info.JPG)       
 I think this section is very descriptive on its own. It deals with two things: 1st the WordPress 
 areas this plugin covers, which are: the_content, the_excerpt, widget_text, comment_text, 
 comment_excerpt, comment_post. 2nd how to use Ncrypt shortcodes. I have to mention here that you 
