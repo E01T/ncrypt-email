@@ -57,7 +57,8 @@ template tag in the appropriate place. Usually all themes have.
     * Chrome
     * Firefox 23.0.1 and onward for windows
     * Opera 12.16 for windows and onward
-    * Safari 5.1.7 for windows and onward..* iOS 4.3.3 iPhone, iOS 4.3.3 and onward
+    * Safari 5.1.7 for windows and onward
+    * iOS 4.3.3 iPhone, iOS 4.3.3 and onward
     * iPad, iOS 4.3.3 iPod Touch 
     * Oracle VM VirtualBox Manager IE6 – WinXP, IE7 – Vista, IE8 – WinXP, IE8 - Win7, IE9 - Win7, 
 IE10 - Win7, IE11 - Win7.
