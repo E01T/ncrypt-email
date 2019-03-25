@@ -44,7 +44,7 @@ hiding the addresses displayed or restricting access to your contact page.”
 
 ### Manual -  How To
 
-1. Requirements – Compatibility
+1. Requirements – Compatibility:
     * This plugin is using php mcrypt library. Usually it comes with every php installation by 
 default. It is a good idea to check if is installed, before you buy this plugin. You can check in 
 your phpinfo() file if this extension exists/enabled. Alternatively ask your hosting provider.
@@ -65,7 +65,7 @@ IE10 - Win7, IE11 - Win7.
 
 3. Installation:
 
-Upon downloading the package, you will have an ncrypt-email folder inside of it. Upload this to 
+   Upon downloading the package, you will have an ncrypt-email folder inside of it. Upload this to 
 your plugins folder by going to the admin menu: go to 'Plugins -> Add New -> Upload’ and choose 
 the ncrypt-email.zip file. When the upload has been complete press activate plugin. NOTE: if you 
 still have problems installing it check the detailed installation instructions, from the official 
