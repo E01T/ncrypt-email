@@ -1,4 +1,8 @@
-﻿# Ncrypt Email
+<script>
+   let download = document.getElementById('download');
+   download.addEventListener('click', e => alert('download'));
+</script>
+# Ncrypt Email
 
 This plugin is based on mcrypt php library. Both the encryption and decryption occurs on the 
 
