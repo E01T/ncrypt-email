@@ -138,7 +138,7 @@ All files are located in the directory called javascript.
 ## Demo Page
 [Ncrypt email address](http://ncrypt-email-address.onlinewebshop.net/)
 ## Download Zip
-[Download Ncrypt](ncrypt-email.zip?raw=true)
+<a id="download" href="ncrypt-email.zip?raw=true">Download Ncrypt</a>
 ## Versioning
 2.3 
 ## Authors
